@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+form {
+  margin-top: 30px;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+.title{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   font-size: 24px;
+}
+
+input {
+  margin-left: 10px;
+  padding: 5px;
+}
+input:hover{
+  background-color: #f1f1f1;
+  color: black;
+  cursor: pointer;
+}
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-size: larger;
+}
+button:hover{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.submitdetails{
+  padding-top: 50px;
+  text-align: center;
+}
+.submitdetails h3{
+  padding: 10px;
+  margin: 10px;
+  font-size: 30px;
+}
+.submitdetails p{
+  margin: 15px;
+  font-size: 20px;
+}
